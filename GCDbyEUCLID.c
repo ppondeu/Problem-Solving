@@ -10,6 +10,6 @@ int main() {
         a = b;
         b = temp;
     }
-
+    printf("%d",b);
    return 0;
 }
